@@ -33,11 +33,9 @@ $card-hover: #34568b;
 }
 
 .card {
-  box-sizing: border-box;
   width: 200px;
   border-radius: 5px;
   border: 1px solid $border-color;
-
   font-weight: 400;
   font-size: 12px;
   line-height: 18px;
